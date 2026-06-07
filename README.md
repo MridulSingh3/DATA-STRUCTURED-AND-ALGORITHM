@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5A0,100:00D9F5&text=Mridul%20Dhakad&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 
@@ -166,3 +166,4 @@ return success;
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5A0,100:00D9F5&section=footer"/>
 
 </div>
+**
