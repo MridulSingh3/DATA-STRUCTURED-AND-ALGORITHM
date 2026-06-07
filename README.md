@@ -1,169 +1,175 @@
-**<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5A0,100:00D9F5&text=Mridul%20Dhakad&fontSize=55&fontColor=ffffff&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer;AWS+Cloud+Learner;DSA+Enthusiast"/>
-
-<img src="https://komarev.com/ghpvc/?username=MridulSingh3&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-```java
-class Mridul {
-
-    String role = "Software Engineer";
-    String language = "Java";
-    String frontend = "React.js";
-    String backend = "Node.js";
-    String database = "MongoDB";
-    String cloud = "AWS";
-
-    String currentFocus =
-        "Data Structures & Algorithms";
-}
-```
-
-- 🌱 Learning **AWS & System Design**
-- 💻 Solving **DSA Problems Daily**
-- 🚀 Building Full Stack Applications
-- ☁️ Exploring Cloud Technologies
-
----
-
-# 🛠 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,mongodb,aws,docker,git,github,html,css,javascript,vscode"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E293B,100:334155&text=Data%20Structures%20%26%20Algorithms&fontSize=45&fontColor=38BDF8&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Mastering+Data+Structures+%26+Algorithms;Topic+Wise+Java+Solutions;Coding+Interview+Preparation;Competitive+Programming+Journey"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-19c4f7df-8d89-4f9d-b6c1-2f7f5dcbfbd9.gif" width="700"/>
 
 </div>
 
 ---
 
-# 🧠 DSA Repository Topics
+# 📖 About This Repository
 
-<div align="center">
+This repository contains **topic-wise Data Structures and Algorithms solutions** implemented in **Java**.
 
-| Topics |
-|----------|
-| ✅ Arrays |
-| ✅ Binary Search |
-| ✅ Recursion |
-| ✅ Backtracking |
-| ✅ Dynamic Programming |
-| ✅ Graph |
-| ✅ Trees |
-| ✅ BST |
-| ✅ Trie |
-| ✅ Hashing |
-| ✅ Linked List |
-| ✅ Queue |
-| ✅ Stack |
-| ✅ String |
-| ✅ Greedy |
-| ✅ Bit Manipulation |
-| ✅ Divide & Conquer |
-| ✅ Priority Queue |
-| ✅ Sorting Algorithms |
+🎯 Goals:
 
-</div>
+- Strengthen Problem Solving Skills
+- Master Core DSA Concepts
+- Prepare for Coding Interviews
+- Improve Competitive Programming Skills
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MridulSingh3&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSingh3&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MridulSingh3&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MridulSingh3&theme=algolia&column=4&row=2"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MridulSingh3&theme=react-dark"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mriduldhakad@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/MridulSingh3">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Fun Fact
+# 📂 Repository Structure
 
 ```text
+📁 Arrays
+📁 BINARY-SEARCH
+📁 Backtracking
+📁 Binary Trees
+📁 Binary_Search_Tree
+📁 Bit-Manipulation
+📁 Divide-&-Conquer
+📁 Dynamic-Programming
+📁 GRAPH
+📁 Greedy
+📁 Hashing
+📁 Linked-List
+📁 Pattern
+📁 Priority_Queue
+📁 Queue
+📁 Recursion
+📁 Sorting-Algorithms
+📁 Stack
+📁 String
+📁 Trie
+```
+
+---
+
+# 🚀 Topics Covered
+
+| Data Structure / Algorithm | Status |
+|---------------------------|--------|
+| Arrays | ✅ |
+| Binary Search | ✅ |
+| Recursion | ✅ |
+| Backtracking | ✅ |
+| Binary Trees | ✅ |
+| Binary Search Tree | ✅ |
+| Linked List | ✅ |
+| Stack | ✅ |
+| Queue | ✅ |
+| Hashing | ✅ |
+| String | ✅ |
+| Trie | ✅ |
+| Graph | ✅ |
+| Greedy | ✅ |
+| Dynamic Programming | ✅ |
+| Bit Manipulation | ✅ |
+| Divide & Conquer | ✅ |
+| Sorting Algorithms | ✅ |
+| Priority Queue | ✅ |
+
+---
+
+# 🧠 Learning Roadmap
+
+```text
+Arrays
+   │
+   ▼
+Binary Search
+   │
+   ▼
+Recursion
+   │
+   ▼
+Backtracking
+   │
+   ▼
+Linked List
+   │
+   ▼
+Stack & Queue
+   │
+   ▼
+Trees & BST
+   │
+   ▼
+Heap / Priority Queue
+   │
+   ▼
+Hashing
+   │
+   ▼
+Trie
+   │
+   ▼
+Graph
+   │
+   ▼
+Greedy
+   │
+   ▼
+Dynamic Programming
+```
+
+---
+
+# ⚡ Problem Solving Mindset
+
+```java
 while(!success){
-    practice();
     learn();
+    practice();
+    debug();
     improve();
 }
-return success;
+```
+
+---
+
+# 🎯 Repository Highlights
+
+✨ Topic-wise Organized Solutions
+
+✨ Clean Java Implementations
+
+✨ Beginner to Advanced Problems
+
+✨ Interview Preparation Focused
+
+✨ Regularly Updated
+
+✨ Easy Navigation
+
+---
+
+# 📈 Progress Tracker
+
+```text
+Arrays               ██████████ 100%
+Binary Search        ██████████ 100%
+Recursion            ██████████ 100%
+Linked List          ██████████ 100%
+Stack                ██████████ 100%
+Queue                ██████████ 100%
+Trees                ██████████ 100%
+Graph                ██████████ 100%
+Greedy               ██████████ 100%
+Dynamic Programming  ██████████ 100%
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5A0,100:00D9F5&section=footer"/>
+### 🚀 Learn • Practice • Improve • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,100:0EA5E9"/>
 
 </div>
-**
