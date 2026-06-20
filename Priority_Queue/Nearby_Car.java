@@ -1,6 +1,5 @@
-import java.awt.*;
 import java.util.*;
-class Heaps{
+class Main{
     static class point implements Comparable<point>{
         int x;
         int y;
